@@ -17,7 +17,7 @@ Abra `index.html` em um navegador, ou execute `python3 -m http.server 8000` nest
 3. Em **Settings → Pages → Build and deployment**, selecione **Deploy from a branch**, branch **main** e pasta **/ (root)**; clique em **Save**.
 4. Aguarde a publicação e abra a URL informada pelo GitHub.
 
-Endereço esperado após a publicação, ainda não confirmado: https://mayronke.github.io/maronk-website/
+Site publicado e verificado: https://mayronke.github.io/maronk-website/
 
 ## Domínio próprio
 
